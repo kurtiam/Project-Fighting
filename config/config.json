@@ -2,14 +2,14 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "xyg6qcplwr3a11qh",
+    "database": "workoutdb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": "Shsk0707",
-    "database": "workout_test",
+    "database": "workout-test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
